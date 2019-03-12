@@ -6,5 +6,6 @@ public class Ashen {
         System.out.println("Ashen with you!");
         System.out.println("God bless you!");
         System.out.println("We are family!");
+        System.out.println("Git STS!");
     }
 }
